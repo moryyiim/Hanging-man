@@ -2,6 +2,10 @@
 
 A fun game of Hang-man. Created with HTML, CSS, JavaScript, and Tailwind.
 
+
+# LIVE
+https://hanging-man.netlify.app/
+
 # DEMO
 
 
