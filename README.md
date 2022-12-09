@@ -1,6 +1,6 @@
 # hanging-man
 
-A fun game of Hang-man. Created with HTML, CSS, JavaScript, and Tailwind.
+A fun game of Hang-man that has theme-toggle ability. Created with HTML, CSS, JavaScript, and Tailwind.
 
 
 # LIVE
